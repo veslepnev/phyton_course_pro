@@ -1,4 +1,5 @@
 /venv
+<<<<<<< HEAD
 .idea
 
 # Byte-compiled / optimized / DLL files
@@ -214,3 +215,6 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 .idea/workspace.xml
 
+=======
+/.idea
+>>>>>>> 494f31c12eac1a2611c2d7c425ff336b1049617e
